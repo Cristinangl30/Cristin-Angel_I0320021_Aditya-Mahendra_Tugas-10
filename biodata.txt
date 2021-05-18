@@ -1,0 +1,13 @@
+Nama: Cristin Angel
+Umur: 20 Tahun
+Alamat: Sulawesi Selatan,Kabupatan Luwu utara
+Status: Mahasiswi
+Nama Instansi: Universitas Sebelas Maret
+Program Studi: Teknik Industri
+
+Nama: Teresia Tangnalloi
+Umur: 20 Tahun
+Alamat: Sulawesi Selatan, Kabupaten Luwu
+Status: Mahasiswi
+Nama Instansi: Universitas Airlangga
+Program Studi: Farmasi
